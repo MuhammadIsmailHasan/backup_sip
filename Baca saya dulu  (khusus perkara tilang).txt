@@ -1,0 +1,3 @@
+Tutorial (khusus untuk satker yang memiliki perkara lalu lintas):
+1. Untuk mengedit tulisan pada form Informasi (Menu Pidana->Perkara Lalu Lintas->tombol informasi), buka file menggunakan notepate++/sublime pada :  application/views/detil_perkara/detil_informasi.php
+2. Edit informasi sesuai dengan praktek yang terjadi di satker masing-masing

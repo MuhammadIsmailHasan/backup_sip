@@ -1,0 +1,136 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2018-07-27 05:49:26 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 05:51:28 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 08:08:38 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 01:09:17 --> 404 Page Not Found --> show_saksi
+ERROR - 2018-07-27 08:10:25 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2018-07-27 08:10:59 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 01:11:40 --> 404 Page Not Found --> show_saksi
+ERROR - 2018-07-27 08:46:52 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 08:47:53 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 08:49:55 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 08:58:05 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 09:00:05 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 09:31:37 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:01:10 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:02:11 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:21:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:39:52 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:40:53 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:41:53 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:49:30 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2018-07-27 03:49:35 --> 404 Page Not Found --> favicon.ico
+ERROR - 2018-07-27 10:49:42 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2018-07-27 03:50:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2018-07-27 03:50:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2018-07-27 10:58:11 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 10:59:12 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:00:12 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:01:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:02:14 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:14:27 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:19:32 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:25:38 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:30:43 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:38:51 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:46:58 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 12:03:15 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 12:40:03 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 12:57:12 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:09:25 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:30:50 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:43:02 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:44:02 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:45:04 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 13:50:09 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:03:23 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:04:24 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:05:25 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:06:26 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:27:54 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:29:12 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:29:56 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 14:31:58 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 08:00:34 --> 404 Page Not Found --> show_saksi
+ERROR - 2018-07-27 15:09:45 --> Severity: Notice  --> Undefined variable: tglPenetapan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/penetapan_persiapan.php 25
+ERROR - 2018-07-27 15:09:45 --> Severity: Notice  --> Undefined variable: petitum /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/penetapan_persiapan.php 69
+ERROR - 2018-07-27 15:10:46 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:11:47 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:18:56 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:28:06 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:29:07 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:30:07 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:31:09 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:39:17 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:40:17 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:42:19 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: nomor_perkara_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 59
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: putusan_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 63
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: nomor_perkara_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 67
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: putusan_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 71
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: nomor_perkara_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 75
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: putusan_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 79
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: nomor_perkara_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 83
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: putusan_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 87
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: permohonan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 91
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: permohonan_penundaan_pidana /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 95
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: terdakwa_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 99
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemohon_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 103
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemohon_pekerjaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 107
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemohon_alamat /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 111
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_tetap /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 115
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: menjalani_pidana_pengganti /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 121
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: terpidana_dalam_tahanan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 133
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: denda_dibayar /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 145
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: barang_rampasan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 157
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: tanggal_pertimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 167
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: isi_perimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 171
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 175
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: no_pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 179
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_ma /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 183
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pengiriman_pertimbangan_hakim_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 191
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: tanggal_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 195
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: nomor_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 199
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: amar_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 203
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: tanggal_penerimaan_kembali_berkas_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 207
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 211
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: pemberitahuan_tembusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 215
+ERROR - 2018-07-27 15:43:27 --> Severity: Notice  --> Undefined variable: catatan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 219
+ERROR - 2018-07-27 15:48:17 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:48:27 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:49:28 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:50:29 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:51:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 15:55:35 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:08:49 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:10:51 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:11:52 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:18:07 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:18:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:18:21 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:19:04 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:20:06 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:21:07 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:26:11 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:27:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:41:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:43:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:45:33 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:50:38 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 16:55:44 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:23:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:24:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:25:14 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:26:15 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:27:16 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:41:34 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:44:41 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:45:41 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 17:46:41 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 11:27:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2018-07-27 18:27:54 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 19:54:41 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2018-07-27 20:02:22 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2018-07-27 20:02:22 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2018-07-27 22:41:54 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125

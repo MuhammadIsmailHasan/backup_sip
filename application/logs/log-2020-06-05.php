@@ -1,0 +1,171 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-05 01:11:13 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: nomor_perkara_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 59
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: putusan_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 63
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: nomor_perkara_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 67
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: putusan_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 71
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: nomor_perkara_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 75
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: putusan_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 79
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: nomor_perkara_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 83
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: putusan_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 87
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: permohonan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 91
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: permohonan_penundaan_pidana /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 95
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: terdakwa_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 99
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemohon_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 103
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemohon_pekerjaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 107
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemohon_alamat /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 111
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_tetap /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 115
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: menjalani_pidana_pengganti /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 121
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: terpidana_dalam_tahanan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 133
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: denda_dibayar /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 145
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: barang_rampasan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 157
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: tanggal_pertimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 167
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: isi_perimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 171
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 175
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: no_pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 179
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_ma /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 183
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pengiriman_pertimbangan_hakim_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 191
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: tanggal_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 195
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: nomor_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 199
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: amar_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 203
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: tanggal_penerimaan_kembali_berkas_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 207
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 211
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: pemberitahuan_tembusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 215
+ERROR - 2020-06-05 02:21:07 --> Severity: Notice  --> Undefined variable: catatan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 219
+ERROR - 2020-06-05 03:41:28 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 04:50:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 06:09:04 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 07:25:02 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 01:39:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2020-06-05 08:41:37 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 09:29:14 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 11:24:42 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2020-06-05 11:24:42 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2020-06-05 11:43:34 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 06:02:23 --> 404 Page Not Found --> show_saksi
+ERROR - 2020-06-05 13:26:14 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 13:40:48 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 14:04:18 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2020-06-05 14:04:18 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2020-06-05 07:13:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2020-06-05 14:38:48 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2020-06-05 14:38:48 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2020-06-05 14:50:37 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 14:57:59 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 08:14:59 --> 404 Page Not Found --> show_saksi
+ERROR - 2020-06-05 15:29:04 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 08:36:33 --> 404 Page Not Found --> ads.txt
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: nomor_perkara_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 59
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: putusan_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 63
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: nomor_perkara_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 67
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: putusan_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 71
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: nomor_perkara_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 75
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: putusan_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 79
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: nomor_perkara_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 83
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: putusan_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 87
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: permohonan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 91
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: permohonan_penundaan_pidana /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 95
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: terdakwa_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 99
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemohon_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 103
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemohon_pekerjaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 107
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemohon_alamat /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 111
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_tetap /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 115
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: menjalani_pidana_pengganti /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 121
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: terpidana_dalam_tahanan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 133
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: denda_dibayar /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 145
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: barang_rampasan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 157
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: tanggal_pertimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 167
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: isi_perimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 171
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 175
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: no_pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 179
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_ma /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 183
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pengiriman_pertimbangan_hakim_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 191
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: tanggal_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 195
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: nomor_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 199
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: amar_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 203
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: tanggal_penerimaan_kembali_berkas_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 207
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 211
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: pemberitahuan_tembusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 215
+ERROR - 2020-06-05 16:29:09 --> Severity: Notice  --> Undefined variable: catatan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 219
+ERROR - 2020-06-05 10:40:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2020-06-05 17:40:41 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2020-06-05 17:46:30 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2020-06-05 17:52:34 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 10:58:39 --> 404 Page Not Found --> SU5ITXJ1VkRiVGdQSE5uRTVWeU9vTlY5WjRHZkVuL3RKeFhVQmhnOGZLT2VibEwyMU45b1o2VElnUEF1Q0N6dWpSdWZsR2d4N0pNemtlQk14REZBVkE9PQ==
+ERROR - 2020-06-05 17:59:15 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2020-06-05 17:59:15 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2020-06-05 18:04:44 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 18:31:22 --> Query error: Table 'k1308375_sipp.mediatorweb' doesn't exist
+ERROR - 2020-06-05 19:04:45 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 13:19:10 --> 404 Page Not Found --> show_saksi
+ERROR - 2020-06-05 14:29:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: nomor_perkara_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 59
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: putusan_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 63
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: nomor_perkara_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 67
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: putusan_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 71
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: nomor_perkara_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 75
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: putusan_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 79
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: nomor_perkara_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 83
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: putusan_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 87
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: permohonan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 91
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: permohonan_penundaan_pidana /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 95
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: terdakwa_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 99
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemohon_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 103
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemohon_pekerjaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 107
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemohon_alamat /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 111
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_tetap /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 115
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: menjalani_pidana_pengganti /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 121
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: terpidana_dalam_tahanan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 133
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: denda_dibayar /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 145
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: barang_rampasan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 157
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: tanggal_pertimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 167
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: isi_perimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 171
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 175
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: no_pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 179
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_ma /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 183
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pengiriman_pertimbangan_hakim_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 191
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: tanggal_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 195
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: nomor_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 199
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: amar_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 203
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: tanggal_penerimaan_kembali_berkas_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 207
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 211
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: pemberitahuan_tembusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 215
+ERROR - 2020-06-05 21:29:54 --> Severity: Notice  --> Undefined variable: catatan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 219
+ERROR - 2020-06-05 15:01:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2020-06-05 22:27:34 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2020-06-05 22:27:34 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: nomor_perkara_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 59
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: putusan_pn /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 63
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: nomor_perkara_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 67
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: putusan_banding /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 71
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: nomor_perkara_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 75
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: putusan_kasasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 79
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: nomor_perkara_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 83
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: putusan_pk /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 87
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: permohonan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 91
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: permohonan_penundaan_pidana /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 95
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: terdakwa_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 99
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemohon_nama /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 103
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemohon_pekerjaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 107
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemohon_alamat /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 111
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_tetap /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 115
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: menjalani_pidana_pengganti /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 121
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: terpidana_dalam_tahanan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 133
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: denda_dibayar /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 145
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: barang_rampasan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 157
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: tanggal_pertimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 167
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: isi_perimbangan_hakim /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 171
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 175
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: no_pengiriman_berkas_grasi_ke_kejaksaan /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 179
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pengiriman_berkas_grasi_ke_ma /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 183
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pengiriman_pertimbangan_hakim_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 191
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: tanggal_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 195
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: nomor_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 199
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: amar_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 203
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: tanggal_penerimaan_kembali_berkas_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 207
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemberitahuan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 211
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: pemberitahuan_tembusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 215
+ERROR - 2020-06-05 22:49:20 --> Severity: Notice  --> Undefined variable: catatan_putusan_grasi /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_tab/detil_grasi.php 219
+ERROR - 2020-06-05 23:59:30 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 125
+ERROR - 2020-06-05 22:11:01 --> 404 Page Not Found --> robots.txt

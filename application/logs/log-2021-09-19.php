@@ -1,0 +1,214 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-19 00:12:14 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 176
+ERROR - 2021-09-19 00:12:14 --> Severity: Notice  --> Undefined offset: 1 /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 183
+ERROR - 2021-09-19 00:17:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 00:19:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 00:23:02 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 133
+ERROR - 2021-09-19 00:43:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 01:13:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 01:15:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 01:50:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 02:06:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 02:08:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 02:26:16 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 02:31:23 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 133
+ERROR - 2021-09-19 03:12:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 03:21:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 03:23:44 --> 404 Page Not Found --> var
+ERROR - 2021-09-19 03:39:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 03:40:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 03:58:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:10:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:20:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:30:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:40:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:46:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:50:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 04:51:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:00:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:10:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:20:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:28:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:28:54 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:30:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:40:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 05:51:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:01:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:11:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:17:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:21:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:21:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:22:04 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 102
+ERROR - 2021-09-19 06:22:04 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 105
+ERROR - 2021-09-19 06:22:04 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 112
+ERROR - 2021-09-19 06:22:04 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 113
+ERROR - 2021-09-19 06:22:05 --> Severity: Notice  --> Undefined variable: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_list/perkara_list.php 17
+ERROR - 2021-09-19 06:22:05 --> Severity: Notice  --> Undefined variable: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_list/perkara_list.php 25
+ERROR - 2021-09-19 06:31:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:36:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:41:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:51:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:54:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:54:51 --> 404 Page Not Found --> cGs4L2U0R2lQTjRYNllobTg3ekhNOGtYTDRBdmh4QnhhaEJvdU00UmZWeWNHU05QWmRVOExMSXhnWmJORVhqS0h6Zm9WOFNldTR6cUdoSXU4VlJ2UHc9PQ==
+ERROR - 2021-09-19 06:56:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 06:56:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:01:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:11:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:12:02 --> 404 Page Not Found --> ads.txt
+ERROR - 2021-09-19 07:21:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:31:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:32:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:35:38 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:39:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:41:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:49:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 07:51:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:02:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:05:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:10:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:12:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:22:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:32:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:33:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:41:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:42:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:52:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 08:59:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:02:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:12:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:22:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:23:48 --> 404 Page Not Found --> QzF2RjdrRmFOZXZOVjZON3k1UGpQbXNtSnJqOWY4NkFUdFBxdnk4M1lVNUlJZXJpb1hXekk3dFJua2xOZXFaajMyaFVwejg1TFllNHExR3ZCWHhxekE9PQ==
+ERROR - 2021-09-19 09:25:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:32:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:35:06 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 133
+ERROR - 2021-09-19 09:42:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:45:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 09:52:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:02:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:02:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:12:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:23:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:33:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:38:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:43:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:53:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 10:55:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:03:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:13:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:13:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:23:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:31:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:33:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:39:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:43:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:45:10 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:53:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 11:54:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 12:05:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 12:41:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 12:48:09 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 12:58:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 13:00:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 13:41:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 13:55:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 14:06:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 14:19:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 14:25:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:05:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:31:13 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:33:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:33:34 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2021-09-19 15:37:36 --> 404 Page Not Found --> U0x1akJRbjdTT2NsM2p3VHMwK0lzeVpiV000OG9LM3AwdHc2VGRuU1czUVZOaDA4UHV1T2tqUVkxMzRFaDJvM1paSE43dG9UbmNXbXkzUklEM0gwT0E9PQ==
+ERROR - 2021-09-19 15:39:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:42:44 --> 404 Page Not Found --> ZGNwYXNrYnBIZG9VM3NLN3hKeUNUMnZCUEFVby8wb2NBdUhYaEpzbzFmUkhGMSttZk43Skk4c214clRickNlbnNnbEVmSGNOQTJsaW1oVHNpYVBkWEE9PQ==
+ERROR - 2021-09-19 15:51:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 15:57:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 16:14:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 16:31:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 16:34:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 16:37:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 16:49:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 17:05:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 17:21:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 17:23:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 102
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 105
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 112
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined index: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/controllers/list_perkara.php 113
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined variable: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_list/perkara_list.php 17
+ERROR - 2021-09-19 17:27:21 --> Severity: Notice  --> Undefined variable: idalurperkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/perkara_list/perkara_list.php 25
+ERROR - 2021-09-19 17:58:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:03:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:09:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:12:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:13:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:16:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:17:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:23:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:33:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:43:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:53:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:54:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 18:55:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:03:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:13:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:23:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:29:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:33:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:33:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:39:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:41:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:44:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:47:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 19:54:09 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:02:39 --> 404 Page Not Found --> .well-known
+ERROR - 2021-09-19 20:02:39 --> 404 Page Not Found --> .well-known
+ERROR - 2021-09-19 20:02:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:02:40 --> 404 Page Not Found --> .well-known
+ERROR - 2021-09-19 20:02:40 --> 404 Page Not Found --> .well-known
+ERROR - 2021-09-19 20:02:40 --> 404 Page Not Found --> .well-known
+ERROR - 2021-09-19 20:03:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:04:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:14:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:23:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:24:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:24:37 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:27:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:34:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:44:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 20:54:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:04:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:13:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:14:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:20:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:24:35 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:34:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:38:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:44:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:48:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:54:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:57:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 21:59:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:04:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:14:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:24:47 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:33:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:34:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:44:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:44:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:51:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 22:54:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:01:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:04:53 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:13:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:14:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:17:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:24:58 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:30:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:30:38 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 133
+ERROR - 2021-09-19 23:32:50 --> Severity: Notice  --> Undefined variable: penghentian_perkara /home/k1308375/domains/pa-ngawi.go.id/public_html/sipp/application/views/detil_perkara/detil_perkara.php 133
+ERROR - 2021-09-19 23:35:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:39:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:45:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2021-09-19 23:55:07 --> 404 Page Not Found --> robots.txt
